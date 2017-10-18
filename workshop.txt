@@ -1,1 +1,2 @@
 hello world ! 1 ! not the same
+DROP TABLES
